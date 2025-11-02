@@ -1,6 +1,6 @@
 import axios from "axios";
 let api = axios.create({
-    baseURL:"http://localhost:3000"
+    baseURL:"https://contactmanage-01-be.onrender.com"
 })
 
 
